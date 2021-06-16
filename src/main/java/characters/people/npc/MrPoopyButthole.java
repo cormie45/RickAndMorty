@@ -1,4 +1,4 @@
-package people.npc;
+package characters.people.npc;
 
 public class MrPoopyButthole {
 }

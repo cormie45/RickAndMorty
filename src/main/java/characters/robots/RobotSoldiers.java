@@ -1,4 +1,4 @@
-package robots.enemys;
+package characters.robots;
 
 public class RobotSoldiers {
 }

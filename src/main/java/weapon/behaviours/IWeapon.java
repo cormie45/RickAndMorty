@@ -1,5 +1,8 @@
 package weapon.behaviours;
 
+import characters.Character;
+
+
 public interface IWeapon {
-    String attack();
+    void attack(Character character);
 }

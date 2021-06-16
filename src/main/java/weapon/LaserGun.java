@@ -1,4 +1,10 @@
 package weapon;
 
-public class LaserGun {
+public class LaserGun extends Weapon{
+
+    public LaserGun(int damage){
+        super(damage);
+    }
+
+
 }
