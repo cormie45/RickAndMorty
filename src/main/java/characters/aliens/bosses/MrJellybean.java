@@ -1,4 +1,11 @@
 package characters.aliens.bosses;
 
-public class MrJellybean {
+import characters.Character;
+
+public class MrJellybean extends Character{
+
+
+    public MrJellybean(int health){
+        super(health);
+    }
 }
